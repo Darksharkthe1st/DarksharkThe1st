@@ -48,19 +48,19 @@ I'm passionate about building scalable systems, exploring AI/ML applications, an
 
 ## 🛠️ Featured Projects
 
-### [Code Runner](https://github.com/DarksharkThe1st) 
+### [Code Runner](https://github.com/Darksharkthe1st/CodeRunner) 
 **Java | Spring Boot | Docker | React | Fly.io**
 - Cloud-hosted code execution platform supporting Java, Python, and C
 - Docker-based sandboxing with multi-layer security (container isolation, resource limits, network restrictions)
 - Spring Boot REST API handling concurrent requests with automatic resource cleanup
 
-### [Task Manager](https://github.com/DarksharkThe1st)
+### [Task Manager](repo not public)
 **Kotlin | Jetpack Compose | Android Studio**
 - Android application built for Congressional App Challenge
 - MVC architecture with responsive UI using Jetpack Compose
 - Task data models and intuitive page navigation
 
-### [Java 3D Graphics Engine](https://github.com/DarksharkThe1st)
+### [Java 3D Graphics Engine](https://github.com/Darksharkthe1st/Farhan-Java-Projects)
 **Java | Blender**
 - Built from scratch without external libraries
 - Custom matrix mathematics and polygon construction
