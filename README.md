@@ -54,7 +54,7 @@ I'm passionate about building scalable systems, exploring AI/ML applications, an
 - Docker-based sandboxing with multi-layer security (container isolation, resource limits, network restrictions)
 - Spring Boot REST API handling concurrent requests with automatic resource cleanup
 
-### Mani Lab Research Tools [https://github.com/Darksharkthe1st/Mani_Lab-Automator]
+### [Mani Lab Research Tools](https://github.com/Darksharkthe1st/Mani_Lab-Automator)
 **C++ | LabVIEW | Python**
 - Developed C++ analysis tools for magnet calibration and LabVIEW-based serial communication
 - Reduced experimentation time by 70% and improved accuracy by 30% through automation
