@@ -54,7 +54,7 @@ I'm passionate about building scalable systems, exploring AI/ML applications, an
 - Docker-based sandboxing with multi-layer security (container isolation, resource limits, network restrictions)
 - Spring Boot REST API handling concurrent requests with automatic resource cleanup
 
-### [Task Manager](repo not public)
+### [Task Manager](https://github.com/DarksharkThe1st)
 **Kotlin | Jetpack Compose | Android Studio**
 - Android application built for Congressional App Challenge
 - MVC architecture with responsive UI using Jetpack Compose
