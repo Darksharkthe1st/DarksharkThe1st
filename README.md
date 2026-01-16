@@ -48,13 +48,20 @@ I'm passionate about building scalable systems, exploring AI/ML applications, an
 
 ## 🛠️ Featured Projects
 
-### [Code Runner](https://github.com/Darksharkthe1st/CodeRunner) 
+### [Code Runner](https://github.com/DarksharkThe1st/CodeRunner) 
 **Java | Spring Boot | Docker | React | Fly.io**
 - Cloud-hosted code execution platform supporting Java, Python, and C
 - Docker-based sandboxing with multi-layer security (container isolation, resource limits, network restrictions)
 - Spring Boot REST API handling concurrent requests with automatic resource cleanup
 
-### [Task Manager](https://github.com/DarksharkThe1st)
+### Mani Lab Research Tools [https://github.com/Darksharkthe1st/Mani_Lab-Automator]
+**C++ | LabVIEW | Python**
+- Developed C++ analysis tools for magnet calibration and LabVIEW-based serial communication
+- Reduced experimentation time by 70% and improved accuracy by 30% through automation
+- Co-authored published paper in JACS on magnetic field analysis
+- Built robust data processing pipelines for physics research experiments
+
+### Task Manager
 **Kotlin | Jetpack Compose | Android Studio**
 - Android application built for Congressional App Challenge
 - MVC architecture with responsive UI using Jetpack Compose
@@ -73,6 +80,8 @@ I'm passionate about building scalable systems, exploring AI/ML applications, an
 ![Farhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarksharkThe1st&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DarksharkThe1st&layout=compact&theme=tokyonight&hide_border=true)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DarksharkThe1st&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
