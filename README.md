@@ -75,16 +75,6 @@ I'm passionate about building scalable systems, exploring AI/ML applications, an
 
 ---
 
-## 📊 GitHub Stats
-
-![Farhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarksharkThe1st&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DarksharkThe1st&layout=compact&theme=tokyonight&hide_border=true)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DarksharkThe1st&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
----
-
 ## 🔬 Research & Publications
 
 - **Co-Author**: Published paper in JACS on magnetic field analysis ([DOI: 10.26434/chemrxiv-2024-45q9k](https://doi.org/10.26434/chemrxiv-2024-45q9k))
