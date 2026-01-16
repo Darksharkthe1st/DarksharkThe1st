@@ -61,7 +61,7 @@ I'm passionate about building scalable systems, exploring AI/ML applications, an
 - Co-authored published paper in JACS on magnetic field analysis
 - Built robust data processing pipelines for physics research experiments
 
-### Task Manager
+### [Task Manager](https://github.com/Darksharkthe1st/Task-Manager)
 **Kotlin | Jetpack Compose | Android Studio**
 - Android application built for Congressional App Challenge
 - MVC architecture with responsive UI using Jetpack Compose
