@@ -11,7 +11,7 @@ I'm passionate about building scalable systems, exploring AI/ML applications, an
 - 🤖 **Agent Developer** at Testudo Agentic AI - Building Gemini planning pipelines and automation frameworks
 - 🏢 **Backend Developer** at Leasetudo - Deploying Express.js REST APIs with MongoDB and OAuth integration
 - 🔬 **AI Research** - Investigating LLM steering vectors and bias reduction techniques (NeurIPS workshop prep)
-- ☁️ **AWS Certification** - Preparing for Cloud Practitioner exam (January 2026)
+- ☁️ **AWS Certification** - Completed AWS Certified Cloud Practitioner exam (January 2026)
 
 ---
 
