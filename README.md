@@ -80,7 +80,8 @@ _**LIVE AT [https://code-runner-eta.vercel.app/](https://code-runner-eta.vercel.
 
 - **Co-Author**: Published paper in JACS on magnetic field analysis ([DOI: 10.26434/chemrxiv-2024-45q9k](https://doi.org/10.26434/chemrxiv-2024-45q9k))
 - **LLM Research**: Evaluating bias in large language models and developing steering vector techniques
-- **Physics Automation**: Built C++ analysis tools and LabVIEW integrations, reducing experimentation time by 70%
+- **Physical Chemistry Automation**: Built C++ analysis tools and LabVIEW integrations, reducing experimentation time by 70%
+- **ML Research**: Developed RNNs to model relations between SMILES chemical structure and chemical properties used in toxicity analysis
 
 ---
 
