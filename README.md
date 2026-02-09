@@ -57,7 +57,7 @@ _**LIVE AT [https://api.rent-swarm.tech](https://api.rent-swarm.tech/scout)**_
 - Deployed full-stack app to AWS EC2 with Docker containerization and Caddy reverse-proxy, live in 24 hours
 
 ### [Code Runner](https://github.com/DarksharkThe1st/CodeRunner) 
-**Java | Spring Boot | Docker | React | Fly.io**
+**Java | Spring Boot | Docker | React | Oracle Cloud | Vercel**
 _**LIVE AT [https://code-runner-eta.vercel.app/](https://code-runner-eta.vercel.app/)**_
 - Cloud-hosted code execution platform supporting Java, Python, and C
 - Docker-based sandboxing with multi-layer security (container isolation, resource limits, network restrictions)
