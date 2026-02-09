@@ -48,7 +48,7 @@ I'm passionate about building scalable systems, exploring AI/ML applications, an
 
 ## 🛠️ Featured Projects
 
-### [Rent-Swarm](https://github.com/optimusbuilder/Rent-Swarm) | 🏆 Hack@Brown Winner
+### [Rent-Swarm](https://github.com/optimusbuilder/Rent-Swarm) | 🏆 Hack@Brown Two-Track Winner ($2K+)
 **Next.js | TypeScript | LangChain | LangGraph | AWS Bedrock | Browserbase**
 _**LIVE AT [https://api.rent-swarm.tech](https://api.rent-swarm.tech/scout)**_
 - **Won 1st place ($2K) in Marshall Wace track + Best Use of Gemini API** at Hack@Brown 2026, competing with 120+ teams
