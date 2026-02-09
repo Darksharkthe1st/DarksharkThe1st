@@ -70,12 +70,6 @@ _**LIVE AT [https://code-runner-eta.vercel.app/](https://code-runner-eta.vercel.
 - Co-authored published paper in JACS on magnetic field analysis
 - Built robust data processing pipelines for physics research experiments
 
-### [Java 3D Graphics Engine](https://github.com/Darksharkthe1st/Farhan-Java-Projects)
-**Java | Blender**
-- Built from scratch without external libraries
-- Custom matrix mathematics and polygon construction
-- Supports Blender model imports and real-time 3D rendering
-
 ---
 
 ## 🔬 Research & Publications
