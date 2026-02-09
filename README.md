@@ -102,5 +102,5 @@ _**LIVE AT [https://code-runner-eta.vercel.app/](https://code-runner-eta.vercel.
 ---
 
 <div align="center">
-  <i>💡 Open to collaborations, research opportunities, and interesting projects!</i>
+  <i>💡 Open to collaboration, research opportunities, and interesting projects, just send over an email!</i>
 </div>
