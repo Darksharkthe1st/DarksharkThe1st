@@ -83,12 +83,6 @@ _**LIVE AT [https://code-runner-eta.vercel.app/](https://code-runner-eta.vercel.
 - Supports Blender model imports and real-time 3D rendering
 
 ---
-## Activity Graph
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DarksharkThe1st&theme=tokyonight" alt="Activity Graph" />
-</div>
-
----
 
 ## 🔬 Research & Publications
 
