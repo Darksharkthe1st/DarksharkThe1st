@@ -53,7 +53,7 @@ I'm passionate about building scalable systems, exploring AI/ML applications, an
 
 ## 🛠️ Featured Projects
 
-### [Splatt](https://github.com/DarksharkThe1st/Splatt) | 🏆 UMD x IronSite Winner ($1K)
+### [Splatt](https://github.com/IanCou/Splatt) | 🏆 UMD x IronSite Winner ($1K)
 **Next.js | FastAPI | Computer Vision | Multimodal LLMs | 3DGS**
 - **Won 1st place ($1K) at UMD x IronSite 2026** building spatial intelligence system
 - Integrated Multimodal Gemini with vectorized queries for object tracking using 3D Gaussian Splatting data
@@ -82,6 +82,12 @@ _**LIVE AT [https://code-runner-eta.vercel.app/](https://code-runner-eta.vercel.
 - Reduced experimentation time by 70% and improved accuracy by 30% through automation
 - Co-authored published paper in JACS on magnetic field analysis
 
+### [Algoverse LLM Research](https://github.com/oninvis/Algoverse_Mech_Interp)
+**Python | PyTorch | TransformerLens | Pandas**
+- Developed Python pipelines for activation steering and ablation on large language models
+- Improved BBQ benchmark neutrality by 60% through targeted intervention on model activations
+- Engineered comprehensive logging system with pickle serialization, CSV aggregation, and git versioning across 250+ experiments
+- Applied Mechanistic Interpretability techniques using TransformerLens hooks to modify model behavior at inference time
 ---
 
 ## 🔬 Research & Publications
