@@ -75,19 +75,19 @@ _**LIVE AT [https://code-runner-eta.vercel.app/](https://code-runner-eta.vercel.
 - Async Execution Queue with 10-worker thread pool monitored through Prometheus metrics
 - UUID-based polling with ConcurrentHashMap to prevent hangs; integrated LangChain4j agent code tools
 
-### [Mani Lab Research Tools](https://github.com/Darksharkthe1st/Mani_Lab-Automator)
-**C++ | LabVIEW | Python**
-- Developed C++ automation framework using Win32 API for async real-time hardware interfacing
-- Engineered adaptive binary search algorithm achieving 0.001V precision for electromagnetic calibration
-- Reduced experimentation time by 70% and improved accuracy by 30% through automation
-- Co-authored published paper in JACS on magnetic field analysis
-
 ### [Algoverse LLM Research](https://github.com/oninvis/Algoverse_Mech_Interp)
 **Python | PyTorch | TransformerLens | Pandas**
 - Developed Python pipelines for activation steering and ablation on large language models
 - Improved BBQ benchmark neutrality by 60% through targeted intervention on model activations
 - Engineered comprehensive logging system with pickle serialization, CSV aggregation, and git versioning across 250+ experiments
 - Applied Mechanistic Interpretability techniques using TransformerLens hooks to modify model behavior at inference time
+
+### [Mani Lab Research Tools](https://github.com/Darksharkthe1st/Mani_Lab-Automator)
+**C++ | LabVIEW | Python**
+- Developed C++ automation framework using Win32 API for async real-time hardware interfacing
+- Engineered adaptive binary search algorithm achieving 0.001V precision for electromagnetic calibration
+- Reduced experimentation time by 70% and improved accuracy by 30% through automation
+- Co-authored published paper in JACS on magnetic field analysis
 ---
 
 ## 🔬 Research & Publications
