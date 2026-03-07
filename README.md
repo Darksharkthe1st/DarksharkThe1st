@@ -55,7 +55,7 @@ As a student at the University of Maryland, I've been passionate about research,
 
 ### [Splatt](https://github.com/IanCou/Splatt) | 🏆 UMD x IronSite Winner ($1K)
 **Next.js | FastAPI | Computer Vision | Multimodal LLMs | 3DGS**
-- **Won 1st place ($1K) at UMD x IronSite 2026** building spatial intelligence system
+- **Won $1K at UMD x IronSite 2026** building spatial intelligence system
 - Integrated Multimodal Gemini with vectorized queries for object tracking using 3D Gaussian Splatting data
 - Built full-stack application combining Next.js frontend with FastAPI backend for real-time spatial analysis
 
