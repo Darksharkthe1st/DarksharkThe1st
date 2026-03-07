@@ -76,7 +76,7 @@ _**LIVE AT [https://code-runner-eta.vercel.app/](https://code-runner-eta.vercel.
 - UUID-based polling with ConcurrentHashMap to prevent hangs; integrated LangChain4j agent code tools
 
 ### [Algoverse LLM Research](https://github.com/oninvis/Algoverse_Mech_Interp)
-**Python | PyTorch | TransformerLens | Pandas**
+**Python | PyTorch | TransformerLens | Pickle | MechInterp**
 - Developed Python pipelines for activation steering and ablation on large language models
 - Improved BBQ benchmark neutrality by 60% through targeted intervention on model activations
 - Engineered comprehensive logging system with pickle serialization, CSV aggregation, and git versioning across 250+ experiments
