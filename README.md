@@ -2,7 +2,7 @@
 
 **Computer Science & Mathematics @ University of Maryland** | Aspiring Cloud & Backend Engineer
 
-I'm passionate about building scalable systems, exploring AI/ML applications, and contributing to open-source projects. Currently working on agentic AI systems and full-stack development while pursuing AWS certifications.
+As a student at the University of Maryland, I've been passionate about research, engineering useful projects, attending hackathons, and working on teams to build ideas into reality. Right now, I'm working on developing agentic systems, engineering full-stack solutions, and collaborating with groups on campus. In the future, I'm looking for MLE/SWE roles, and am currently pursuing internships that align with my interests.
 
 ---
 
